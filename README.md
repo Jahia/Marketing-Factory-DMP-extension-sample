@@ -1,6 +1,6 @@
 # Marketing Factory DMP extension sample
 
-This project contains an example of extension for Marketing Factory, It provide an implementation of UnomiRequestListener .
+This project contains an example of extension for Marketing Factory, It provide an implementation of UnomiRequestListener.
 
 This implementation is adding a new Event to enrich the user profile with a new property.
 
