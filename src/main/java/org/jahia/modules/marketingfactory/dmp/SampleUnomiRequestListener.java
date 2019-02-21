@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @Component(service = UnomiRequestListener.class, immediate = true)
-public class SampleContextRequestExtension implements UnomiRequestListener {
+public class SampleUnomiRequestListener implements UnomiRequestListener {
 
     @Override
     public void beforeUnomiRequest(ContextRequest contextRequest, RenderContext renderContext) {
